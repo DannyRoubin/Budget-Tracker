@@ -18,7 +18,7 @@ To use this app locally simply clone this repo, then open the console/git bash a
 
 ## App usage (live app)
 
-To use the app from the live server on heroku, simply follow this link:
+To use the app from the live server on heroku, simply follow this link: https://offline--budget--tracker.herokuapp.com/
 
 ## Video walkthrough of the app
 
